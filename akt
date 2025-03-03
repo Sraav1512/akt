@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AKT Premix - SRAAV Enterprise</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffffff;
+            color: #003366;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 40px 0;
+        }
+        header {
+            background: #003366;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            border-bottom: 3px solid #00509E;
+            position: relative;
+        }
+        .logo {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            width: 150px;
+        }
+        .section {
+            margin: 30px auto;
+            padding: 20px;
+            border: 2px solid #00509E;
+            border-radius: 10px;
+            background: #f0f8ff;
+            max-width: 700px;
+            text-align: left;
+            padding-left: 40px;
+        }
+        h2 {
+            color: #003366;
+        }
+        .contact {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .button {
+            background-color: #00509E;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        AKT Premix - Premium Resin Solution
+        <img src="sraav_logo.jpg" alt="SRAAV Enterprise Logo" class="logo">
+    </header>
+    <div class="container">
+        <h1>8 ke taath, plywood industry ka naya vishwas!</h1>
+        
+        <div class="section">
+            <h2>About Us</h2>
+            <p>AKT Premix is a revolutionary resin premix designed to enhance the quality of urea formaldehyde resin. Our product improves bonding, reduces resin consumption, and ensures high viscosity stability, making it a game-changer in the plywood industry.</p>
+        </div>
+
+        <div class="section">
+            <h2>Why Choose AKT Premix?</h2>
+            <p>✅ Strong bonding for durable plywood</p>
+            <p>✅ Cost-effective solution reducing resin usage</p>
+            <p>✅ Enhances viscosity for superior quality</p>
+        </div>
+
+        <div class="section">
+            <h2>How to Use</h2>
+            <p>🔹 Mix 1% AKT Premix with Urea Formaldehyde Resin</p>
+            <p>🔹 Reduce Maida usage by half compared to earlier amounts</p>
+        </div>
+
+        <div class="section">
+            <h2>Customer Feedback</h2>
+            <p>We value your opinion! Please share your experience with AKT Premix.</p>
+            <a class="button" href="#">Submit Feedback</a>
+        </div>
+
+        <div class="section contact">
+            <h2>Contact Us</h2>
+            <p><strong>Vipul | SRAAV ENTERPRISE</strong></p>
+            <p>📱 9653556788</p>
+            <a class="button" href="tel:+919653556788">Call Now</a>
+        </div>
+    </div>
+</body>
+</html>
